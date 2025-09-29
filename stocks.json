@@ -1,0 +1,52 @@
+{
+    "stocks": [
+        {
+            "symbol": "AAPL",
+            "name": "Apple Inc.",
+            "price": 198.87,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "TSLA",
+            "name": "Tesla Inc.",
+            "price": 256.13,
+            "sector": "Automotive"
+        },
+        {
+            "symbol": "MSFT",
+            "name": "Microsoft Corp.",
+            "price": 412.15,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "AMZ",
+            "name": "Amazon Inc.",
+            "price": 222.87,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "AMZ",
+            "name": "Amazon Inc.",
+            "price": 222.87,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "AMZ",
+            "name": "Amazon Inc.",
+            "price": 222.87,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "AMZ",
+            "name": "Amazon Inc.",
+            "price": 222.87,
+            "sector": "Technology"
+        },
+        {
+            "symbol": "AMZ",
+            "name": "Amazon Inc.",
+            "price": 222.87,
+            "sector": "Technology"
+        }
+    ]
+}
